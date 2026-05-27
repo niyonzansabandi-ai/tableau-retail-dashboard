@@ -77,7 +77,7 @@ tableau-retail-dashboard/
 ## 📬 Contact
 
 **Portfolio:**  
-https://niyonzansabandi-ai.github.io/portfolio/
+https://niyonzansabandi-ai.github.io/portfolio-site-/
 
 **LinkedIn:**  
 https://www.linkedin.com/in/nzansabandi-niyomugabo-5a28b7291
